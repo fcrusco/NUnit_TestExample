@@ -1,4 +1,4 @@
-# Calculadora Simples com Testes de Unidade NUnit
+# AppConsole C# - Calculadora Simples com Testes de Unidade NUnit
 
 Este é um projeto de exemplo **extremamente simples** criado com o objetivo principal de demonstrar a estrutura básica de testes de unidade em .NET 8, utilizando o framework NUnit.
 
