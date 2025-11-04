@@ -2,6 +2,8 @@
 
 Este é um projeto de exemplo **extremamente simples** criado com o objetivo principal de demonstrar a estrutura básica de testes de unidade em .NET 8, utilizando o framework NUnit.
 
+<img width="306" height="331" alt="image" src="https://github.com/user-attachments/assets/e8a54663-a0a8-444d-a00d-5f486aa0654a" />
+
 O projeto é dividido em três partes:
 1.  **Aplicação de Console (`Program.cs`)**: A interface do usuário (UI), responsável por interagir com o usuário e capturar a entrada de dados (`Console.ReadLine`).
 2.  **Biblioteca de Serviço (`Calc.Service/Soma.cs`)**: A lógica de negócios, isolada em uma classe e método (`Soma.Somar()`).
