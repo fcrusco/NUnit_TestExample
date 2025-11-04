@@ -69,3 +69,5 @@ Usamos 5 atributos `[TestCase]` para cobrir os cenários mais comuns (casos de b
     * **Propósito:** Testa a soma de dois números negativos.
 5.  `[TestCase(1000, 2000, 3000)]`
     * **Propósito:** Testa a soma com valores maiores.
+
+<img width="960" height="371" alt="image" src="https://github.com/user-attachments/assets/ba13f363-232f-4211-a11d-c1ae995b6a64" />
